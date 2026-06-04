@@ -3,7 +3,7 @@ using System.Reflection;
 using System.Runtime.InteropServices;
 using Silk.NET.Core.Contexts;
 
-namespace TheAdventure;
+namespace Minesweeper;
 
 public class SdlContext : INativeContext
 {
@@ -93,4 +93,3 @@ public class SdlContext : INativeContext
         ReleaseUnmanagedResources();
     }
 }
-

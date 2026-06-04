@@ -1,4 +1,4 @@
-namespace TheAdventure;
+namespace Minesweeper;
 
 public enum MouseButton : byte
 {
